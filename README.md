@@ -13,3 +13,4 @@
 
 ## Overview
 This project demonstrates the development of a machine learning-based Network Intrusion Detection System (IDS) to identify potential threats within network traffic. We use a labeled dataset of network traffic (e.g., the NSL-KDD dataset) and train a classification model to detect different types of intrusions.
+I build this project on Jupyter Notebook to see the proceses in each steps.
